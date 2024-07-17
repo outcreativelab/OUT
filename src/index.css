@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer components {
+    .menu {
+        @apply hover:border-b hover:text-amarillo hover:border-amarillo border-amarillo/0 hover:hover:scale-110 hover:hover:drop-shadow-[0_1px_2px_rgba(114,242,133,.30)] active:text-amarillo active:border-none 
+    };
+
+    .lista1 {
+        @apply text-[1.6dvw] text-rojo
+        max-[1000.05px]:text-[2.4dvw] max-[720.05px]:text-[3.4dvw] max-[470.05px]:text-[4dvw]
+    };
+
+    .lista2 {
+        @apply pl-[2dvw] font-light text-[1.3dvw] leading-[3.5dvh] mt-[-1dvh] 
+        max-[1000.05px]:px-0 max-[1000.05px]:text-[2dvw] max-[720.05px]:text-[2.8dvw] max-[470.05px]:text-[3.5dvw]
+    };
+
+
+}
