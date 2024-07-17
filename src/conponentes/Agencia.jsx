@@ -34,10 +34,10 @@ const Agencia = () => {
       </p>
 
       <div className='flex mt-[20px]'>
-        <img src="/p-izquierda.svg" alt=""  className='w-[370px]  translate-y-[150px] max-[1000.05px]:w-[270px] max-[1000.05px]:translate-y-[80px]
+        <img src="p-izquierda.svg" alt=""  className='w-[370px]  translate-y-[150px] max-[1000.05px]:w-[270px] max-[1000.05px]:translate-y-[80px]
         max-[720.05px]:w-[35dvw] max-[720.05px]:translate-y-[50px]'/>
 
-        <img src="/p-derecha.svg" alt=""  className='w-[400px] max-[1000.05px]:w-[300px]
+        <img src="p-derecha.svg" alt=""  className='w-[400px] max-[1000.05px]:w-[300px]
         max-[720.05px]:w-[40dvw] 
         '/>
       </div>

@@ -22,8 +22,8 @@ export default function Video() {
 
   return (
     <>
-      {ancho > 720 && <video id='inicio' src="/2.mp4" autoPlay loop muted className='w-[100%]'></video>}
-      {ancho < 720 && <video id='inicio' src="/1.mp4" autoPlay loop muted className='w-[100%]'></video>}
+      {ancho > 720 && <video id='inicio' src="2.mp4" autoPlay loop muted className='w-[100%]'></video>}
+      {ancho < 720 && <video id='inicio' src="1.mp4" autoPlay loop muted className='w-[100%]'></video>}
       
     </>
     
