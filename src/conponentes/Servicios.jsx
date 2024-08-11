@@ -18,8 +18,8 @@ const Servicios = () => {
           <h2 className=' font-[800] text-[5dvw] text-rojo px-[20dvw] leading-[4rem]
           min-[1500.05px]:leading-[5dvw] 
           max-[1000.05px]:text-[5dvw] 
-          max-[720.05px]:text-[5dvw] max-[720.05px]:leading-[2rem] 
-          max-[470.05px]:text-[6dvw]'>
+          max-[720.05px]:text-[8dvw] max-[720.05px]:leading-[4rem] max-[720.05px]:px-[5dvw]
+          max-[470.05px]:text-[8dvw] max-[470.05px]:leading-[2rem]'>
            Diseño y Gestión para Redes Sociales
             </h2>
 
@@ -42,13 +42,17 @@ const Servicios = () => {
 
 
         {/* rectagulo #1 */}
-          <div id='programas' className='bg-blanco rounded-[25px] h-[825px] overflow-hidden border-[2px] border-[#878787] max-w-[500px] min-[1050.05px]:mb-[-100px]
-          max-[1275.05px]:h-[870px]
-          max-[1050.05px]:h-[830px]
-          max-[720.05px]:h-[840px]
-          max-[375.05px]:h-[950px]
-          max-[420.05px]:h-[900px]
-          max-[356.05px]:h-[1040px]
+          <div id='programas' className='bg-blanco rounded-[25px] h-[780px] overflow-hidden border-[2px] border-[#878787] max-w-[500px] min-[1050.05px]:mb-[-100px]
+          max-[1275.05px]:h-[800px]
+          max-[1050.05px]:h-[770px]
+          max-[720.05px]:h-[780px]
+          max-[510.05px]:h-[790px]
+          max-[450.05px]:h-[810px]
+          max-[378.05px]:h-[880px]
+          max-[323.05px]:h-[880px]
+          max-[420.05px]:h-[830px]
+          max-[356.05px]:h-[900px]
+          max-[352.05px]:h-[960px]
           '>
 
 
@@ -64,7 +68,7 @@ const Servicios = () => {
 
             <div className='text-left mx-[6%] my-[20px] font-[400] mb-[22px]' >
 
-              <h4 className='text-rojo font-[800] text-[2.8rem] my-[20px]'>400$ <span className='text-[1.3rem]'>Mensual</span></h4>
+              <h4 className='text-rojo font-[800] text-[2.8rem] my-[20px]'>300$ <span className='text-[1.3rem]'>Mensual</span></h4>
               <ul className=''>
                 <li className='mt-[15px]'> <b>12 publicaciones:</b> </li>
                 <li className='ml-[30px]'> - Reels, Carruseles y Single </li> 
@@ -96,8 +100,7 @@ const Servicios = () => {
               '>
 
                 <p className=''>-25% de descuento con el Pago de 3 Meses</p>
-                <p className='text-rojo font-[800] text-[2.8rem] mt-[10px] max-[650.05px]:text-[9dvw]'>900$ <span className='text-[1.3rem] max-[650.05px]:text-[5dvw]'>Trimestral</span></p>
-                
+               
             </div>
           </div>
 
@@ -111,13 +114,17 @@ const Servicios = () => {
 
 
         {/* rectagulo #2 */}
-        <div id='programas' className='bg-blanco rounded-[25px] h-[825px] overflow-hidden border-[2px] border-rojo max-w-[500px] mb-[-100px]
-          max-[1275.05px]:h-[870px]
-          max-[1050.05px]:h-[830px]
-          max-[720.05px]:h-[840px]
-          max-[375.05px]:h-[950px]
-          max-[420.05px]:h-[900px]
-          max-[356.05px]:h-[1040px]
+        <div id='programas' className='bg-blanco rounded-[25px] h-[780px] overflow-hidden border-[2px] border-rojo max-w-[500px] mb-[-100px]
+          max-[1275.05px]:h-[800px]
+          max-[1050.05px]:h-[770px]
+          max-[720.05px]:h-[780px]
+          max-[510.05px]:h-[790px]
+          max-[450.05px]:h-[810px]
+          max-[378.05px]:h-[880px]
+          max-[323.05px]:h-[880px]
+          max-[420.05px]:h-[830px]
+          max-[356.05px]:h-[900px]
+          max-[352.05px]:h-[960px]
           '>
 
 
@@ -133,7 +140,7 @@ const Servicios = () => {
 
             <div className='text-left mx-[6%] my-[20px] font-[400] mb-[22px]' >
 
-              <h4 className='text-rojo font-[800] text-[2.8rem] my-[20px]'>600$ <span className='text-[1.3rem]'>Mensual</span></h4>
+              <h4 className='text-rojo font-[800] text-[2.8rem] my-[20px]'>400$ <span className='text-[1.3rem]'>Mensual</span></h4>
               <ul className=''>
                 <li className='mt-[15px]'> <b>20 publicaciones:</b> </li>
                 <li className='ml-[30px]'> - Reels, Carruseles y Single </li> 
@@ -165,7 +172,7 @@ const Servicios = () => {
               '>
 
                 <p className=''>-25% de descuento con el Pago de 3 Meses</p>
-                <p className='text-rojo font-[800] text-[2.8rem] mt-[10px] max-[650.05px]:text-[9dvw]'>1350$ <span className='text-[1.3rem] max-[650.05px]:text-[5dvw]'>Trimestral</span></p>
+               
                 
             </div>
           </div>

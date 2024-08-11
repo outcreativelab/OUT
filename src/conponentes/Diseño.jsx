@@ -17,9 +17,9 @@ const Diseño = () => {
         <div className='grid items-center  '>
           <h2 className=' font-[800] text-[5dvw] text-amarillo px-[20dvw] leading-[4rem]
           min-[1500.05px]:leading-[5dvw] 
-          max-[1000.05px]:text-[5dvw] 
-          max-[720.05px]:text-[5dvw] max-[720.05px]:leading-[2rem] 
-          max-[470.05px]:text-[6dvw]'>
+          max-[1000.05px]:text-[7dvw] 
+          max-[720.05px]:text-[9dvw] max-[720.05px]:leading-[4rem] max-[720.05px]:px-[5dvw]
+          max-[470.05px]:text-[8dvw] max-[470.05px]:leading-[2rem]'>
            Diseño para Redes Sociales
             </h2>
 
@@ -42,14 +42,15 @@ const Diseño = () => {
 
 
         {/* rectagulo #1 */}
-          <div id='programas' className='bg-blanco rounded-[25px] h-[600px] overflow-hidden border-[2px] border-[#878787] max-w-[500px] min-[1050.05px]:mb-[-100px]
-          max-[1275.05px]:h-[600px]
-          max-[1050.05px]:h-[600px]
-          max-[720.05px]:h-[600px]
-          max-[620.05px]:h-[580px]
-          max-[500.05px]:h-[550px]
-          max-[356.05px]:h-[650px]
-          max-[375.05px]:h-[600px]
+          <div id='programas' className='bg-blanco rounded-[25px] h-[550px] overflow-hidden border-[2px] border-[#878787] max-w-[500px] min-[1050.05px]:mb-[-100px]
+          max-[1275.05px]:h-[550px]
+          max-[1050.05px]:h-[550px]
+          max-[720.05px]:h-[520px]
+          max-[620.05px]:h-[520px]
+          max-[500.05px]:h-[500px]
+          max-[430.05px]:h-[520px]
+          max-[356.05px]:h-[630px]
+          max-[375.05px]:h-[540px]
           '>
 
 
@@ -65,9 +66,9 @@ const Diseño = () => {
 
             <div className='text-left mx-[6%] my-[20px] font-[400] mb-[22px]' >
 
-              <h4 className='text-rojo font-[800] text-[2.8rem] my-[20px]'>200$ <span className='text-[1.3rem]'>Mensual</span></h4>
+              <h4 className='text-rojo font-[800] text-[2.8rem] my-[20px]'>150$ <span className='text-[1.3rem]'>Mensual</span></h4>
               <ul className=''>
-                <li className='mt-[15px]'> <b>20 publicaciones:</b> </li>
+                <li className='mt-[15px]'> <b>12 publicaciones:</b> </li>
                 <li className='ml-[30px]'> - Reels, Carruseles y Single </li> 
                 <li className='mt-[15px]'> 5 Diseños para Historias </li> 
                 <li className='mt-[15px]'> Creación de iconos para <b>historias destacadas</b> (en caso de necesitar). </li>
@@ -92,7 +93,6 @@ const Diseño = () => {
               '>
 
                 <p className=''>-25% de descuento con el Pago de 3 Meses</p>
-                <p className='text-rojo font-[800] text-[2.8rem] mt-[10px] max-[650.05px]:text-[9dvw]'>450$ <span className='text-[1.3rem] max-[650.05px]:text-[5dvw]'>Trimestral</span></p>
                 
             </div>
           </div>
@@ -107,14 +107,15 @@ const Diseño = () => {
 
 
         {/* rectagulo #2 */}
-        <div id='programas' className='bg-blanco rounded-[25px] h-[600px] overflow-hidden border-[2px] border-amarillo max-w-[500px] mb-[-100px]
-          max-[1275.05px]:h-[600px]
-          max-[1050.05px]:h-[600px]
-          max-[720.05px]:h-[600px]
-          max-[620.05px]:h-[580px]
-          max-[500.05px]:h-[550px]
-          max-[356.05px]:h-[650px]
-          max-[375.05px]:h-[600px]
+        <div id='programas' className='bg-blanco rounded-[25px] h-[550px] overflow-hidden border-[2px] border-amarillo max-w-[500px] mb-[-100px]
+          max-[1275.05px]:h-[550px]
+          max-[1050.05px]:h-[550px]
+          max-[720.05px]:h-[520px]
+          max-[620.05px]:h-[520px]
+          max-[500.05px]:h-[500px]
+          max-[430.05px]:h-[520px]
+          max-[356.05px]:h-[630px]
+          max-[375.05px]:h-[540px]
           '>
 
 
@@ -130,7 +131,7 @@ const Diseño = () => {
 
             <div className='text-left mx-[6%] my-[20px] font-[400] mb-[22px]' >
 
-              <h4 className='text-rojo font-[800] text-[2.8rem] my-[20px]'>300$ <span className='text-[1.3rem]'>Mensual</span></h4>
+              <h4 className='text-rojo font-[800] text-[2.8rem] my-[20px]'>250$ <span className='text-[1.3rem]'>Mensual</span></h4>
               <ul className=''>
                 <li className='mt-[15px]'> <b>20 publicaciones:</b> </li>
                 <li className='ml-[30px]'> - Reels, Carruseles y Single </li> 
@@ -157,7 +158,6 @@ const Diseño = () => {
               '>
 
                 <p className=''>-25% de descuento con el Pago de 3 Meses</p>
-                <p className='text-rojo font-[800] text-[2.8rem] mt-[10px] max-[650.05px]:text-[9dvw]'>675$ <span className='text-[1.3rem] max-[650.05px]:text-[5dvw]'>Trimestral</span></p>
                 
             </div>
           </div>
