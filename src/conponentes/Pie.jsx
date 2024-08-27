@@ -33,7 +33,7 @@ const Pie = () => {
         </a>
 
 
-        <a href="facebook.com/outcreativelab" target="_blank">
+        <a href="https://www.facebook.com/outcreativelab" target="_blank">
           <img
             src="./META.svg"
             alt="META"
