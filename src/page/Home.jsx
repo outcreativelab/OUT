@@ -16,8 +16,8 @@ function Home() {
     <Video />
     <Agencia />
     <Barra />
-    <Servicios />
     <Diseño />
+    <Servicios />
     <Pie />
 
     </>
