@@ -15,7 +15,7 @@ const Pie = () => {
 
 
         <div className='flex gap-[0.5rem]'>
-        <a href="https://www.instagram.com/outcreativelab/" target="_blank">
+        <a href="https://www.instagram.com/out_creativelab/" target="_blank">
           <img
             src="./INSTAGRAM.svg"
             alt="instagram"
@@ -33,7 +33,7 @@ const Pie = () => {
         </a>
 
 
-        <a href="https://www.facebook.com/outcreativelab" target="_blank">
+        <a href="https://www.facebook.com/people/OUT-CreativeLab/61565596514784/" target="_blank">
           <img
             src="./META.svg"
             alt="META"

@@ -2,20 +2,20 @@ import React from 'react'
 
 const Diseño = () => {
   return (
-    <div className='animate-all duration-100 bg-rojo '>
-      <div className=' w-full mt-[0px] text-center py-[200px] font-roboto font-medium text-negro grid justify-items-center gap-6 z-5 grid-cols-1 '>
+    <div className='animate-all duration-100 bg-blanco '>
+      <div className=' w-full mt-[0px] text-center py-[80px] font-roboto font-medium text-negro grid justify-items-center gap-6 z-5 grid-cols-1 '>
 
       
 
         
-        <div id='diseño' className=' bg-amarillo text-center justify-items-center rounded-full w-[150px]
+        <div id='diseño' className=' bg-rojo text-center justify-items-center rounded-full w-[150px]
         max-[720.05px]:w-[100px]'>
-            <h3 className=' text-rojo font-[800] text-[1.6rem]  text-center self-center place-self-center 
+            <h3 className=' text-amarillo font-[800] text-[1.6rem]  text-center self-center place-self-center 
             max-[720.05px]:text-[1rem]'>Servicios</h3>
         </div>
 
         <div className='grid items-center  '>
-          <h2 className=' font-[800] text-[5dvw] text-amarillo px-[20dvw] leading-[4rem]
+          <h2 className=' font-[800] text-[5dvw] text-rojo px-[20dvw] leading-[4rem]
           min-[1500.05px]:leading-[5dvw] 
           max-[1000.05px]:text-[7dvw] 
           max-[720.05px]:text-[9dvw] max-[720.05px]:leading-[4rem] max-[720.05px]:px-[5dvw]
@@ -27,7 +27,7 @@ const Diseño = () => {
 
         </div>
        
-        <p className='mx-[26dvw] text-[1.4dvw] leading-[1.8rem] font-[400] mb-[1rem] text-blanco
+        <p className='mx-[26dvw] text-[1.4dvw] leading-[1.8rem] font-[400] mb-[1rem] text-negro
         max-[1000.05px]:text-[2dvw] max-[1000.05px]:mx-[19dvw]
         max-[720.05px]:text-[0.9rem] max-[720.05px]:mx-[15dvw] max-[720.05px]:leading-[1.3rem] 
         max-[470.05px]:text-[0.9rem]
@@ -107,7 +107,7 @@ const Diseño = () => {
 
 
         {/* rectagulo #2 */}
-        <div id='programas' className='bg-blanco rounded-[25px] h-[550px] overflow-hidden border-[2px] border-amarillo max-w-[500px] mb-[-100px]
+        <div id='programas' className='bg-blanco rounded-[25px] h-[550px] overflow-hidden border-[2px] border-rojo max-w-[500px] mb-[-100px]
           max-[1275.05px]:h-[550px]
           max-[1050.05px]:h-[550px]
           max-[720.05px]:h-[520px]
@@ -119,10 +119,10 @@ const Diseño = () => {
           '>
 
 
-            <div className='bg-amarillo w-[100%] 
+            <div className='bg-rojo w-[100%] 
               '>
 
-                <h3 className='text-[2.5rem] font-[800] text-rojo
+                <h3 className='text-[2.5rem] font-[800] text-blanco
                 max-[720.05px]:text-[6dvw] 
                 max-[470.05px]:text-[5dvw] 
                 '>Plan Pro</h3>
