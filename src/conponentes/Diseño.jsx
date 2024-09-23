@@ -66,7 +66,7 @@ const Diseño = () => {
 
             <div className='text-left mx-[6%] my-[20px] font-[400] mb-[22px]' >
 
-              <h4 className='text-rojo font-[800] text-[2.8rem] my-[20px]'>100$ <span className='text-[1.3rem]'>Mensual</span></h4>
+              <h4 className='text-rojo font-[800] text-[2.8rem] my-[20px]'>700$ <span className='text-[1.3rem]'>Mensual</span></h4>
               <ul className=''>
                 <li className='mt-[15px]'> <b>12 publicaciones:</b> </li>
                 <li className='ml-[30px]'> - Reels, Carruseles y Single </li> 
@@ -131,7 +131,7 @@ const Diseño = () => {
 
             <div className='text-left mx-[6%] my-[20px] font-[400] mb-[22px]' >
 
-              <h4 className='text-rojo font-[800] text-[2.8rem] my-[20px]'>150$ <span className='text-[1.3rem]'>Mensual</span></h4>
+              <h4 className='text-rojo font-[800] text-[2.8rem] my-[20px]'>900$ <span className='text-[1.3rem]'>Mensual</span></h4>
               <ul className=''>
                 <li className='mt-[15px]'> <b>20 publicaciones:</b> </li>
                 <li className='ml-[30px]'> - Reels, Carruseles y Single </li> 
